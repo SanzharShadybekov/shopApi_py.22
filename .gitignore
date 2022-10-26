@@ -8,7 +8,7 @@ media
 
 .env
 venv
-
+.idea
 # Backup files #
 *.bak
 
